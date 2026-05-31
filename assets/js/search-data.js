@@ -39,6 +39,11 @@ ninja.data = [{
           description: "Using Stochastic Actor-Oriented Models for an empirically grounded agent-based model",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-learning-opinions-by-observing-actions",
+          title: 'Learning Opinions by Observing Actions',
+          description: "Simulation of Opinion Dynamics Using an Action-Opinion Inference Model",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_project/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
