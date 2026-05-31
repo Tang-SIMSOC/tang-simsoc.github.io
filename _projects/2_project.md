@@ -2,7 +2,7 @@
 layout: page
 title: Learning Opinions by Observing Actions
 description: Simulation of Opinion Dynamics Using an Action-Opinion Inference Model
-img: assets/img/obfuscators.jpg
+img: 
 importance: 1
 category: past
 math: true
@@ -29,7 +29,7 @@ Suppose that an observer's diet opinion (i.e., vegetarian vs. omnivore) is purel
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <figure>
-            <img src="../assets/img/obfuscators.jpg" alt="Obfuscators impact" class="img-fluid rounded z-depth-1">
+            <img src="/assets/img/obfuscators.jpg" alt="Obfuscators impact" class="img-fluid rounded z-depth-1">
             <figcaption class="caption">
                 The battle between vegetarians and omnivores: fraction of vegetarians versus the number of obfuscators (the Figure comes from <a href="https://www.tandfonline.com/doi/figure/10.1080/0022250X.2021.1929968" target="_blank">here</a>).
             </figcaption>
