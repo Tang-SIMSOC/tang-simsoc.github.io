@@ -2,7 +2,7 @@
 layout: page
 title: Learning Opinions by Observing Actions
 description: Simulation of Opinion Dynamics Using an Action-Opinion Inference Model
-img: 
+img: assets/img/obfuscators.jpg
 importance: 1
 category: past
 math: true
