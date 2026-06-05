@@ -9,8 +9,8 @@ description: A summary of my academic and professional experience.
 
 ### Academic Appointments
 
-* **2023 – Present | Postdoctoral Researcher.** Computational Science Lab, Institute of Informatics, Faculty of Science, University of Amsterdam, The Netherlands.
-* **2021 – 2023 | Postdoctoral Researcher.** Department of Sociology, Faculty of Behavioural and Social Sciences, University of Groningen, The Netherlands.
+* 2023 – Present | Postdoctoral Researcher | Computational Science Lab, Institute of Informatics, Faculty of Science, University of Amsterdam, The Netherlands.
+* 2021 – 2023 | Postdoctoral Researcher | Department of Sociology, Faculty of Behavioural and Social Sciences, University of Groningen, The Netherlands.
 
 ---
 
