@@ -3,7 +3,7 @@ layout: page
 title: Measuring Polarization Using Clustering Techniques
 description: A Group-based Polarization Measurement
 importance: 1
-img: assets/img/esbg.png
+img: assets/img/esbg.eps
 category: past
 ---
 
@@ -17,12 +17,12 @@ To address the discrepancy, we present a group-based polarization measurement ba
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <figure>
-            <img src="/assets/img/esbg.png" alt="ESBG Illustration" class="img-fluid rounded z-depth-1">
+            <img src="/assets/img/esbg.eps" alt="ESBG Illustration" class="img-fluid rounded z-depth-1">
         </figure>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         <figure>
-            <img src="/assets/img/kmeans.png" alt="K-means Illustration" class="img-fluid rounded z-depth-1">
+            <img src="/assets/img/kmeans.eps" alt="K-means Illustration" class="img-fluid rounded z-depth-1">
         </figure>
     </div>
 </div>
