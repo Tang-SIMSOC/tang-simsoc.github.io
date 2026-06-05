@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-cmaiss",
+          title: "CMAISS",
+          description: "Computational Modelling and Artificial Intelligence for Social Systems.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cmaiss/";
+          },
         },{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
