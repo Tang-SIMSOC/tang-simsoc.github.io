@@ -4,18 +4,14 @@ permalink: /cmaiss/
 title: CMAISS
 description: Computational Modelling and Artificial Intelligence for Social Systems.
 nav: true
-nav_order: 5
+nav_order: 7
 ---
 
-<!-- This script safely colors the main page title without breaking your navigation bar -->
-<script>
-  document.addEventListener("DOMContentLoaded", function() {
-    const title = document.querySelector(".post-title");
-    if (title && title.textContent.includes("CMAISS")) {
-      title.innerHTML = title.innerHTML.replace("CMAISS", '<span style="color:#4169E1">CM</span><span style="color:#FF8C00">AI</span><span style="color:#4169E1">SS</span>');
-    }
-  });
-</script>
+<style>
+  .post-header {
+    display: none;
+  }
+</style>
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 120" width="100%" height="100%">
   <text x="10" y="85" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="78" font-weight="900" letter-spacing="4"><tspan fill="#4169E1">CM</tspan><tspan fill="#FF8C00">AI</tspan><tspan fill="#4169E1">SS</tspan></text>
@@ -65,14 +61,10 @@ The inaugural CMAISS workshop was successfully organized alongside ICCS 2025 in 
 
 ##### **Presented Works (2025)**
 
-* **Victoria Garibay**  
-  *Accelerated Approximation of Bellman Equation Solutions for Agent Policy Optimization with a Feedforward Neural Network* [(abstract)](https://easychair.org/smart-program/ICCS2025/2025-07-07.html#talk:285908)
+* **Victoria Garibay** *Accelerated Approximation of Bellman Equation Solutions for Agent Policy Optimization with a Feedforward Neural Network* [(abstract)](https://easychair.org/smart-program/ICCS2025/2025-07-07.html#talk:285908)
 
-* **Eric Dignum, Harshita Choudhary and Mike Lees**  
-  *Simulation-based inference in agent-based models using spatio-temporal summary statistics* [(abstract)](https://easychair.org/smart-program/ICCS2025/2025-07-07.html#talk:285907) 
+* **Eric Dignum, Harshita Choudhary and Mike Lees** *Simulation-based inference in agent-based models using spatio-temporal summary statistics* [(abstract)](https://easychair.org/smart-program/ICCS2025/2025-07-07.html#talk:285907) 
 
-* **Piotr Kosela**  
-  *Emergent Communication in Merging Artificial Agent Populations* [(abstract)](https://easychair.org/smart-program/ICCS2025/2025-07-07.html#talk:285906)
+* **Piotr Kosela** *Emergent Communication in Merging Artificial Agent Populations* [(abstract)](https://easychair.org/smart-program/ICCS2025/2025-07-07.html#talk:285906)
 
-* **Isaak Mengesha and Debraj Roy**  
-  *Evolutionary game selection leads to emergent Inequality* [(abstract)](https://easychair.org/smart-program/ICCS2025/2025-07-07.html#talk:285905)
+* **Isaak Mengesha and Debraj Roy** *Evolutionary game selection leads to emergent Inequality* [(abstract)](https://easychair.org/smart-program/ICCS2025/2025-07-07.html#talk:285905)
