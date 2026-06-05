@@ -12,7 +12,7 @@ category: ongoing
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <figure>
-            <img src="/assets/img/The_Gerry-Mander_Edit.jpg" alt="Gerrymander" class="img-fluid rounded z-depth-1">
+            <img src="/assets/img/The_Gerry-Mander_Edit.png" alt="Gerrymander" class="img-fluid rounded z-depth-1">
             <figcaption class="caption">
                 Original cartoon of "The Gerry-Mander" (the Figure comes from <a href="https://en.wikipedia.org/wiki/Gerrymandering#/media/File:The_Gerry-Mander_Edit.png" target="_blank">here</a>).
             </figcaption>
