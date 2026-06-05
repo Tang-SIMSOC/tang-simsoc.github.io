@@ -44,6 +44,11 @@ ninja.data = [{
           description: "Simulation of Opinion Dynamics Using an Action-Opinion Inference Model",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
+            },},{id: "projects-gerrysort-gerrymandering-and-partisan-sorting",
+          title: 'GerrySort--Gerrymandering and Partisan Sorting',
+          description: "An Empirical Agent-Based Model for Simulating Gerrymandering and Geographical Partisan Sorting",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
