@@ -6,7 +6,7 @@ description: An overview of ongoing and past projects.
 nav: true
 nav_order: 3
 display_categories: [ongoing, past]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
