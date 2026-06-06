@@ -40,7 +40,7 @@ We welcome papers on, but not limited to, the following topics:
 
 ### **<span style="color:#4169E1">CM</span><span style="color:#FF8C00">AI</span><span style="color:#4169E1">SS</span> 2026 (Hamburg)**
 
-The 2nd CMAISS workshop will soon be held in conjunction with ICCS 2026 in Hamburg. This year we have received 25% more submissions, and have double the number of presenters even when a higher standard was applied.
+The 2nd CMAISS workshop will soon be held in conjunction with ICCS 2026 in Hamburg. This year, we received 25% more submissions and doubled our number of presenters, despite applying stricter acceptance standards.
 
 * **More Information:** [iccs/cmaiss official website](https://www.iccs-meeting.org/iccs2026/workshops/#cmaiss)
 
