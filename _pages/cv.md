@@ -38,6 +38,7 @@ description: A summary of my academic and professional experience.
 
 * **2018 – 2022** | Ph.D | Faculty of Technology, Policy, and Management, Delft University of Technology, The Netherlands.
 * **2016 – 2017** | MSc. in Non-Equilibrium Systems | Faculty of Natural & Mathematical Sciences, King’s College London, United Kingdom.
+* **2011 - 2015** | BSc. in Economics | College of Economics/ Chu Kochen Honors College, Zhejiang University, China.
 
 ---
 
