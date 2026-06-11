@@ -5,7 +5,7 @@ description: Using Stochastic Actor-Oriented Models for an empirically grounded 
 img: assets/img/rsienalogo-2.png
 importance: 1
 category: ongoing
------------------
+---
 
 **Negative influence** refers to the phenomenon in which people's opinions become more different after interaction. This contrasts with the classical assumption of assimilation, or positive influence, where interaction leads individuals to become more similar. Negative influence is one of the fundamental mechanisms that may explain polarization, although empirical evidence for its existence remains mixed.
 
