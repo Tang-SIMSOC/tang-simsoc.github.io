@@ -48,9 +48,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-1-project",
-          title: '1_project',
-          description: "",
+          section: "News",},{id: "projects-empirical-investigation-of-negative-influence",
+          title: 'Empirical Investigation of Negative Influence',
+          description: "Using Stochastic Actor-Oriented Models for an empirically grounded agent-based model",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-learning-opinions-by-observing-actions",
