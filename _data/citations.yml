@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-12'
+  last_updated: '2026-06-29'
 papers:
   cA3aK24AAAAJ:9yKSN-GCB0IC:
     citations: 19
@@ -22,7 +22,7 @@ papers:
     title: 'Understanding the learning mechanism underlying social influence-based discrete choice: an Action-Opinion Inference model'
     year: '2019'
   cA3aK24AAAAJ:k_IJM867U9cC:
-    citations: 4
+    citations: 5
     title: An Empirical and Simulation Investigation of Bounded Confidence and Negative Influence in Opinion Dynamics Using Stochastic Actor-Oriented Modelling
     year: '2025'
   cA3aK24AAAAJ:qUcmZB5y_30C:
