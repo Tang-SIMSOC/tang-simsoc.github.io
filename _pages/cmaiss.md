@@ -4,7 +4,7 @@ permalink: /cmaiss/
 title: CMAISS
 description: Computational Modelling and Artificial Intelligence for Social Systems.
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 <style>
