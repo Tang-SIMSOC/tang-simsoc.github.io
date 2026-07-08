@@ -69,7 +69,7 @@ nav_order: 5
   <h2>Research Software</h2>
 
   <div class="software-item">
-    <img class="software-thumb" src="https://raw.githubusercontent.com/aM0NKE/GerrySort-ABM/main/interface.png" alt="GerrySort simulation interface">
+    <img class="software-thumb" src="{{ '/assets/img/gerrysort-logo.png' | relative_url }}" alt="GerrySort logo">
     <div>
       <h3>GerrySort</h3>
       <p>
