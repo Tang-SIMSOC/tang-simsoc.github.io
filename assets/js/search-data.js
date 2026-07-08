@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-software",
+          title: "Software",
+          description: "Software packages and research tools.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/software/";
+          },
         },{id: "nav-cmaiss",
           title: "CMAISS",
           description: "Computational Modelling and Artificial Intelligence for Social Systems.",
