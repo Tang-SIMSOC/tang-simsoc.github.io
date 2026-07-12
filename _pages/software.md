@@ -87,7 +87,7 @@ nav_order: 5
     <div>
       <h3>SOCRATES</h3>
       <p>
-        SOCial Routing AgenTs Evolutionnary Simulation (SOCRATES) is a Java multi-agent simulator developed within the ERC BEHAVE project to study how social routing affects the efficiency of transportation infrastructures. The software is not yet available online.
+        SOCial Routing AgenTs Evolutionnary Simulation (SOCRATES) is a Java multi-agent simulator developed within the ERC BEHAVE project to study how social routing affects the efficiency of transportation infrastructures.
       </p>
       <p class="software-links">
         [<a href="https://www.nicolascointe.eu/projects/#socrates">project info</a>]
