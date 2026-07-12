@@ -49,7 +49,7 @@ nav_order: 5
 </style>
 
 <div class="software-list">
-  <h2>R Packages</h2>
+  <h2>Packages</h2>
 
   <div class="software-item">
     <img class="software-thumb" src="{{ '/assets/img/esbg-logo.svg' | relative_url }}" alt="esbg logo">
@@ -66,7 +66,7 @@ nav_order: 5
     </div>
   </div>
 
-  <h2>Research Software</h2>
+  <h2>Simulation Models</h2>
 
   <div class="software-item">
     <img class="software-thumb" src="{{ '/assets/img/gerrysort-logo.png' | relative_url }}" alt="GerrySort logo">
@@ -78,6 +78,19 @@ nav_order: 5
       <p class="software-links">
         [<a href="https://github.com/aM0NKE/GerrySort-ABM#readme">README</a>]
         [<a href="https://github.com/aM0NKE/GerrySort-ABM">code</a>]
+      </p>
+    </div>
+  </div>
+
+  <div class="software-item">
+    <img class="software-thumb" src="{{ '/assets/img/socrates-logo.png' | relative_url }}" alt="SOCRATES logo">
+    <div>
+      <h3>SOCRATES</h3>
+      <p>
+        SOCial Routing AgenTs Evolutionnary Simulation (SOCRATES) is a Java multi-agent simulator developed within the ERC BEHAVE project to study how social routing affects the efficiency of transportation infrastructures. The software is not yet available online.
+      </p>
+      <p class="software-links">
+        [<a href="https://www.nicolascointe.eu/projects/#socrates">project info</a>]
       </p>
     </div>
   </div>
