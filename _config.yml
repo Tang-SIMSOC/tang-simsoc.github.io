@@ -207,7 +207,7 @@ kramdown:
       line_numbers: false
       start_line: 1
 
-include: ["_pages", "_scripts"]
+include: ["_pages", "_scripts", "google2b8ace31370fff35.html"]
 
 exclude:
   - bin/
