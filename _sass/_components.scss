@@ -161,6 +161,33 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+.project-logo {
+  float: right;
+  width: clamp(10.5rem, 22vw, 14rem);
+  margin: 0 0 1.25rem 2rem;
+  text-align: center;
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+
+  .caption {
+    margin: 0.55rem 0 0;
+    font-size: 0.75rem;
+    line-height: 1.35;
+  }
+}
+
+@media (max-width: 575px) {
+  .project-logo {
+    float: none;
+    width: min(56vw, 11rem);
+    margin: 0 auto 1.5rem;
+  }
+}
+
 // Repositories
 
 @media (min-width: 768px) {

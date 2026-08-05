@@ -7,6 +7,10 @@ importance: 2
 category: ongoing
 ---
 
+<figure class="project-logo">
+  <img src="{{ '/assets/img/haste-logo-v4.svg' | relative_url }}" alt="HASTE project logo">
+</figure>
+
 **Hate-speech dialogues** are emotionally charged social interactions characterized by hostility, anger, and strong dislike between participants. Under such conditions, individuals may not assimilate toward the opinions they encounter. Instead, dislike of another participant may cause them to reject that participant's position and move further away through **negative influence**.
 
 In this project, we investigate whether dislike-induced negative influence occurs more frequently in hate-speech dialogues and whether it contributes to escalating polarization. We combine several **Natural Language Processing (NLP)** methods: **machine-learning-based text classification** to estimate the degree of transphobia or anti-immigrant attitudes expressed in individual online posts, **topic modeling** to identify the thematic structure and topic shifts within dialogues, and **sentiment and emotion analysis** to capture negativity, anger, and hostility between participants. These measures are linked to reply relations, authorship, and timestamps to reconstruct how participants' expressed attitudes change during interactions.
