@@ -75,6 +75,11 @@ ninja.data = [{
           description: "A Group-based Polarization Measurement",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
+            },},{id: "projects-tracing-social-influence-in-online-hate-speech-discussions",
+          title: 'Tracing Social Influence in Online Hate-Speech Discussions',
+          description: "A Hybrid Agent-Based Modeling and NLP Approach",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_project/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
