@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GerrySort--Gerrymandering and Partisan Sorting
+title: "GerrySort: Gerrymandering and Partisan Sorting"
 description: An Empirical Agent-Based Model for Simulating Gerrymandering and Geographical Partisan Sorting
 img: assets/img/The_Gerry-Mander_Edit.png
 importance: 1
