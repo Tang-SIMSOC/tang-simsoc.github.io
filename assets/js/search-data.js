@@ -66,7 +66,7 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-gerrysort-gerrymandering-and-partisan-sorting",
-          title: 'GerrySort--Gerrymandering and Partisan Sorting',
+          title: 'GerrySort: Gerrymandering and Partisan Sorting',
           description: "An Empirical Agent-Based Model for Simulating Gerrymandering and Geographical Partisan Sorting",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
