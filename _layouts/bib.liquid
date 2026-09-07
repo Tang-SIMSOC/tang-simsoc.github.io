@@ -186,6 +186,11 @@
     <div class="periodical">
       {{ entry.note | strip }}
     </div>
+    {% if entry.chapter_note %}
+      <div class="periodical mt-2">
+        {{ entry.chapter_note | strip }}
+      </div>
+    {% endif %}
 
     <!-- Links/Buttons -->
     <div class="links">
@@ -215,6 +220,12 @@
         {% else %}
           <a href="{{ entry.html | prepend: '/assets/html/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
         {% endif %}
+      {% endif %}
+      {% if entry.chapter5 %}
+        <a href="{{ entry.chapter5 | relative_url }}" class="btn btn-sm z-depth-0" role="button">Chapter 5 · MOBEP</a>
+      {% endif %}
+      {% if entry.chapter6 %}
+        <a href="{{ entry.chapter6 | relative_url }}" class="btn btn-sm z-depth-0" role="button">Chapter 6 · Conclusions</a>
       {% endif %}
       {% if entry.pdf %}
         {% if entry.pdf contains '://' %}
