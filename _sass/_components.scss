@@ -136,6 +136,10 @@ ul.task-list input[type="checkbox"] {
   }
 
   .card {
+    overflow-wrap: normal;
+    word-break: normal;
+    hyphens: none;
+
     img {
       width: 100%;
     }
