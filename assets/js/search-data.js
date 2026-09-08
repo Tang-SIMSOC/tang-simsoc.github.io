@@ -80,6 +80,11 @@ ninja.data = [{
           description: "A Hybrid Agent-Based Modeling and NLP Approach",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
+            },},{id: "projects-mobep-opinion-behavior-co-evolution-framework",
+          title: 'MOBEP: Opinion-Behavior Co-evolution Framework',
+          description: "A unifying framework for building and comparing models of opinion polarization",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_project/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
