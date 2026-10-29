@@ -38,17 +38,29 @@ We welcome papers on, but not limited to, the following topics:
 
 ---
 
+### **<span style="color:#4169E1">CM</span><span style="color:#FF8C00">AI</span><span style="color:#4169E1">SS</span> 2027 (Kraków)**
+
+The 3rd CMAISS workshop will be held in conjunction with ICCS 2027 in Kraków, Poland, from 12–14 July 2027. Further details will be announced.
+
+#### Chairs
+* Tanzhe Tang (University of Amsterdam)
+* Jaeyoung Kwak (Nanyang Technological University)
+* Alex Cucco (G. d’Annunzio University Chieti-Pescara)
+* Luiz do Valle Miranda (Jagiellonian University)
+
+---
+
 ### **<span style="color:#4169E1">CM</span><span style="color:#FF8C00">AI</span><span style="color:#4169E1">SS</span> 2026 (Hamburg)**
 
-The 2nd CMAISS workshop will soon be held in conjunction with ICCS 2026 in Hamburg. This year, we received 25% more submissions and doubled our number of presenters, despite applying stricter acceptance standards.
+The 2nd CMAISS workshop was held in conjunction with ICCS 2026 in Hamburg. Compared with the inaugural edition, it received 25% more submissions and featured twice as many presenters, despite stricter acceptance standards.
 
-* **More Information:** [iccs/cmaiss official website](https://www.iccs-meeting.org/iccs2026/workshops/#cmaiss)
+* **Archive & Program:** [iccs/cmaiss official website](https://www.iccs-meeting.org/iccs2026/workshops/#cmaiss)
 
 #### Chairs 
 * Tanzhe Tang (University of Amsterdam)
 * Jaeyoung Kwak (Nanyang Technological University)
 
-#### Works to be Presented
+#### Presented Works
 
 * **Mamadou Alpha Hawa Balde, Jassim Bensafir, Sarah Ben Othman, Salah Zidi and Slim Hammadi** *A Per-Cluster Multi-Scale Topic Modeling Framework with Unstructured and Heterogeneous Text Corpora* [(abstract)](https://easychair.org/smart-program/ICCS2026/2026-06-29.html#talk:316964)
 
