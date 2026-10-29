@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Invited talk on Hopfield-network-inspired models of opinion dynamics
+title: Invited talk at the Institute for Advanced Study
 date: 2026-10-01
 description: Invited talk on Hopfield-network-inspired models of opinion dynamics
 tags: events
